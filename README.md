@@ -11,6 +11,8 @@ GNU General Public License for more details.
 The authors request all users make appropriate references to the use of this program. 
 The authors disclaim any responsibility resulting from use of this program.
 
+The topographical enhanced surface energy balance system (TESEBS) model use a DEM based radiation algorithsm to estimate instantaneous clear sky solar radiation for surface energy balance system to obtain accurate energy absorbed by the mountain surface.TESEBS can be sued to calculate net radiation, ground heat flux, sensible heat flux and latent heat flux distributions over the hilly land surface. It is also possible to calculate evapotranspiration for mountaneous area, witt Landsat, Aster etc satellite data.
+
 Main.mat is the an example for running TESEBS 1.3. Anybody who are intrested to the model, the code can be sent to you upon the author`s agreement. Contact information:
 
 Xuelong Chen,
